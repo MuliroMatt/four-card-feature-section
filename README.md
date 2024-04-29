@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://your-solution-url.com)
+- Solution URL: [My Solution](https://muliromatt.github.io/four-card-feature-section/)
 
 ## My process
 
